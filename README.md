@@ -2,8 +2,7 @@
 
 A lightweight React application that fetches and displays comprehensive country information from the REST Countries API.
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Country+Explorer+Demo) 
-*(Replace with actual screenshot later)*
+![Demo Screenshot](https://github.com/web-projects-cp/country_explorer/blob/main/screenshot.png) 
 
 ## ✨ Features
 
